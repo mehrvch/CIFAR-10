@@ -92,6 +92,6 @@ ENV/
 saved_models/cnn_7_TL.h5
 saved_models/img80.h5
 saved_models/img128.h5
-pkl_files/features.pkl
+pkl_files/features.pickle
 pkl_files/features_imgsize_224.pkl
 
